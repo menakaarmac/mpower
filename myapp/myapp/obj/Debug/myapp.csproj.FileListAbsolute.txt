@@ -1,1 +1,11 @@
 C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\bin\Debug\myapp.exe.config
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\bin\Debug\myapp.exe
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\bin\Debug\myapp.pdb
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\obj\Debug\myapp.csprojResolveAssemblyReference.cache
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\obj\Debug\myapp.F1.Form1.resources
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\obj\Debug\myapp.F1.Form2.resources
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\obj\Debug\myapp.Form1.resources
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\obj\Debug\myapp.Properties.Resources.resources
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\obj\Debug\myapp.csproj.GenerateResource.Cache
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\obj\Debug\myapp.exe
+C:\Users\Erimac-PC\Documents\GitHub\mpower\myapp\myapp\obj\Debug\myapp.pdb
